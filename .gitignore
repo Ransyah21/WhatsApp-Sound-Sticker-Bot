@@ -1,0 +1,9 @@
+node_modules/
+auth_info/
+videos/
+audios/
+tmp/
+*.webp
+*.mp4
+*.ogg
+*.mp3
