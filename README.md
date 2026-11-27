@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:128C7E,100:25D366&height=180&section=header&text=WA%20Sound%20Sticker%20Bot&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Silent%20%26%20Auto-Clean%20WhatsApp%20Bot%20with%20Baileys%20v7&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:128C7E,100:25D366&height=180&section=header&text=WA%20Sound%20Sticker%20Bot&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Silent%20Auto-Clean%20WhatsApp%20Bot%20with%20Baileys%20v7&descAlignY=58&descSize=16" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=25D366&center=true&vCenter=true&width=550&lines=Convert+Video+to+Sound+Sticker+(.ss);Silent+Mode+Anti-Spam+Group+Chat;Powered+by+Baileys+v7+and+FFmpeg" alt="Typing SVG" />
+  </a>
 
   <p>
     <img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Baileys-v7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <img src="https://img.shields.io/badge/FFmpeg-Required-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mode-Silent%20%26%20Clean-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Mode-Silent%20Clean-111111?style=for-the-badge" />
   </p>
 </div>
 
